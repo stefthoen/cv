@@ -1,11 +1,14 @@
 # Stef Thoen
 
-Cussy-en-Morvan, France
+**Senior Software Engineer** — Front-end · Back-end · DevOps
+Cussy-en-Morvan, Bourgogne-Franche-Comté, France
 [hi@stef.co](mailto:hi@stef.co) · [stef.co](https://stef.co) · [linkedin.com/in/stefthoen](https://linkedin.com/in/stefthoen)
 
 ## Professional summary
 
-Experienced Software Engineer with over 15 years in the industry, specializing in full-stack development and cloud technologies. I have a proven track record of leading complex web development projects, optimizing system performance, and improving code quality. I currently build an AI-powered, multi-tenant SaaS platform in Laravel, and make heavy use of agent-based, AI-assisted workflows in day-to-day development. Highly skilled in collaborating with cross-functional teams, I am committed to delivering high-quality solutions, and am open to new freelance or permanent opportunities.
+Remote freelance software engineer with 15+ years of experience, specializing in full-stack development, legacy system modernization, and technical-debt reduction. Proven track record of rescuing struggling projects and introducing modern development practices (CI/CD, code reviews, testing, design systems). I currently build an AI-powered, multi-tenant SaaS platform in Laravel, making heavy use of agent-based, AI-assisted development workflows. Open to remote freelance contracts and permanent roles.
+
+**Specializations:** legacy modernization & architecture migration · technical-debt reduction & code-quality improvement · performance optimization (50+ point PageSpeed gains) · CI/CD for existing projects.
 
 ## Work experience
 
@@ -13,63 +16,64 @@ Experienced Software Engineer with over 15 years in the industry, specializing i
 *Remote | 2025 – present*
 - Building a multi-tenant SaaS platform in **Laravel**, with AI-powered product features and an agent-based architecture.
 - Front-end with **Livewire** and **Filament** (admin panels).
-- Heavy use of AI-assisted, agent-based workflows throughout the development process.
+- Heavy use of AI-assisted, agent-based workflows throughout development.
 
-### Confidential client (under NDA) — Senior Full-stack Developer
-*Remote | 2024 – 2025*
-- Built a unifying application over multiple ticketing systems for a white-label support company, giving agents one fast interface across systems.
-- Designed a keyboard-first, high-speed UI with shortcuts (Superhuman-style) so support agents could clear tickets rapidly.
-- Built with the latest **Next.js** (server-side-focused), JavaScript and Tailwind; API routes implemented within Next.js.
+### White-label support company (confidential) — Lead Full Stack Engineer
+*Remote | November 2024 – June 2025*
+- Led the rebuild of a white-label helpdesk-aggregation platform from a legacy PHP application to a modern **Next.js / React** stack with **Tailwind CSS**, enabling businesses to outsource customer support while integrating multiple ticketing systems through a unified API layer.
+- Architected and built the front-end (keyboard-first, high-speed UI with shortcuts), coordinating with a third-party API team to unify multiple helpdesk APIs into a single interface.
+- Introduced Agile/Scrum and project-management processes; mentored a junior developer; managed stakeholder communication between the CEO, the external API partner and the internal team.
+- Delivered a functional pilot demonstrating the platform's multi-tenant, white-label capabilities to investors, supporting fundraising (including planned AI-powered support automation).
 
-### Voys — Lead Software Engineer
+### Voys Nederland — Lead Full Stack Engineer
 *Remote | February 2022 – June 2024*
-- Within an Agile team (first Scrum, later Shape Up), led the migration of an existing WordPress website to a Sage 10 / Bedrock setup, leveraging Laravel concepts and Composer to improve the development process.
+- Led the migration of an existing WordPress website to a Sage 10 / Bedrock setup, leveraging Laravel concepts and Composer to improve the development process.
 - Consolidated multiple WordPress sites into a multisite, enhancing multilingual support and streamlining management.
-- Refactored the front-end using Tailwind for CSS, TypeScript, and Svelte, and modularized custom theme code into standalone plugins.
-- Implemented modern development practices: code reviews (Gitflow, later trunk-based development), a feature flag system, unit tests for critical flows, and a CI/CD pipeline (GitLab CI, Terraform and Kubernetes, later just GitLab CI and Deployer).
+- Refactored the front-end using Tailwind, TypeScript and Svelte, and modularized custom theme code into standalone plugins.
+- Implemented modern development practices: code reviews (Gitflow, later trunk-based development), a feature flag system, unit tests for critical flows, and a CI/CD pipeline (GitLab CI, Terraform).
 - Spearheaded the creation of a custom Design System, integrated with Storybook.
 
-### SDU — Lead Software Engineer
-*Remote | February 2021 – July 2021*
-- Led development within an Agile team (Scrum), converting an Angular JavaScript front-end application to a TypeScript React application using Next.js, while using components from an existing design system (Storybook).
+### Nexus Institute — Lead Full Stack Engineer
+*Remote | 2017 – 2023*
+- Migrated a website from a custom CMS to WordPress and WooCommerce, then rebuilt it with a new design.
+- Built a subscription model with WooCommerce Memberships and Subscriptions, plus custom WordPress blocks for subscriber-only content.
+- Hosted on a DigitalOcean VPS with a CI/CD flow (GitHub, CircleCI, Trellis) for automated staging/production deploys.
 
-### Quai des Notaires — Project Lead & Senior Front-end Developer
+### Lefebvre Sdu — Lead Front-end Engineer
+*Remote | February 2021 – July 2021*
+- Led an Agile (Scrum) team converting an Angular JavaScript front-end to a TypeScript React application using Next.js, reusing components from an existing design system (Storybook).
+
+### De Speld — Full Stack Engineer
+*Remote | 2018 – 2021*
+- Led a project improving the code quality of a legacy WordPress application, raising the Google PageSpeed score by 50 points.
+- Built a subscription model ("Vage Kennis") with a custom paywall to serve an ad-free version to subscribers.
+
+### Quai des Notaires — Project Lead
 *Autun, France & Remote | October 2018 – June 2019*
-- Analyzed the performance of a web application (PHP/Symfony) and wrote detailed instructions on points of possible improvement.
-- Collaborated with French and Romanian teams using Scrum to optimize the performance of a Symfony web application front-end for better download speeds and conversion.
-- Led a project to build a React application to replace the Symfony front-end with a client/server architecture (React Single Page Application and Symfony API).
+- Analyzed the performance of a PHP/Symfony web application and documented detailed improvement points.
+- Collaborated with French and Romanian teams (Scrum) to optimize front-end performance for better download speeds and conversion.
+- Led a project to build a React application to replace the Symfony front-end (React Single Page Application + Symfony API).
+
+### HU University of Applied Sciences Utrecht — Lead Front-end Engineer
+*Remote | 2018*
+- Built a React Progressive Web App to help users select behavior-change strategies.
 
 ## Education
 
-**Haagse Hogeschool** — Bachelor's degree in Computer Science (Informatica & Informatiekunde), 2005
-
-## Projects
-
-### Subscription Service — Speld.nl (2018 – 2021)
-- Led a project improving the code quality of a legacy WordPress application, improving the Google PageSpeed score by 50 points.
-- Built a subscription model ("Vage Kennis") to serve an ad-free version of the website to subscribers, including a custom paywall system for non-subscribers.
-
-### React Progressive Web App — Hogeschool Utrecht (2018)
-- Built a React Progressive Web App that helps with the selection of strategies for behavior change.
-
-### Ecommerce platform — Nexus Institute (2017 – 2023)
-- Migrated a website with a custom CMS to WordPress and WooCommerce while changing the design minimally to support different browser viewports.
-- Rebuilt the website with a new design, fully using WooCommerce to sell subscriptions and products.
-- Implemented a subscription model using WooCommerce Memberships and Subscriptions, with custom WordPress blocks for subscriber-only content.
-- Hosted on a VPS (DigitalOcean) with a CI/CD flow using GitHub, CircleCI and Trellis for automated staging/production deploys based on Git branching.
+**Haagse Hogeschool, Den Haag** — Bachelor's degree, Informatica (Software Engineering), 1999 – 2005
 
 ## Skills
 
 - **Programming languages:** TypeScript, JavaScript, Elm, PHP, Elixir
-- **Web technologies:** React (Next.js), Svelte, Node.js, WordPress, Symfony, Laravel, Livewire, Filament, Phoenix, HTML, CSS (Tailwind)
-- **AI:** AI-assisted & agent-based development workflows, LLM-powered product features
+- **Web technologies:** React (Next.js), Svelte, Node.js, WordPress, Symfony, Laravel, Livewire, Filament, Phoenix, Progressive Web Apps (PWAs), HTML, CSS (Tailwind)
 - **Cloud platforms:** AWS, DigitalOcean, Hetzner
-- **DevOps tools & platforms:** Docker, Kubernetes, Ansible, Terraform, NixOS, GitLab, GitHub
+- **DevOps tools & platforms:** Docker, Kubernetes, Ansible, Terraform, NixOS, GitLab, GitHub, CI/CD
 - **Database systems:** MySQL, PostgreSQL
-- **Soft skills:** leadership, communication, teaching, problem-solving, team collaboration
+- **AI:** AI-assisted & agent-based development workflows, LLM-powered product features
+- **Other:** leadership, coaching & mentoring, Agile project management, communication, problem-solving
 
 ## Languages
 
 - **Dutch:** Native
 - **English:** Fluent (near-native proficiency)
-- **French:** Intermediate (B1 level, informal assessment)
+- **French:** Intermediate (B1 level)
