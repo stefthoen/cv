@@ -1,14 +1,14 @@
 # Stef Thoen
 
-**Senior Software Engineer** — Front-end · Back-end · DevOps
+**Senior Software Engineer** — Front-end | Back-end | DevOps
 Cussy-en-Morvan, Bourgogne-Franche-Comté, France
-[hi@stef.co](mailto:hi@stef.co) · [stef.co](https://stef.co) · [linkedin.com/in/stefthoen](https://linkedin.com/in/stefthoen)
+[hi@stef.co](mailto:hi@stef.co) | [stef.co](https://stef.co) | [linkedin.com/in/stefthoen](https://linkedin.com/in/stefthoen)
 
 ## Professional summary
 
 Remote freelance software engineer with 15+ years of experience, specializing in full-stack development, legacy system modernization, and technical-debt reduction. Proven track record of rescuing struggling projects and introducing modern development practices (CI/CD, code reviews, testing, design systems). I currently build an AI-powered, multi-tenant SaaS platform in Laravel, making heavy use of agent-based, AI-assisted development workflows. Open to remote freelance contracts and permanent roles.
 
-**Specializations:** legacy modernization & architecture migration · technical-debt reduction & code-quality improvement · performance optimization (50+ point PageSpeed gains) · CI/CD for existing projects.
+**Specializations:** legacy modernization & architecture migration | technical-debt reduction & code-quality improvement | performance optimization (50+ point PageSpeed gains) | CI/CD for existing projects.
 
 ## Work experience
 
@@ -65,7 +65,7 @@ Remote freelance software engineer with 15+ years of experience, specializing in
 ## Skills
 
 - **Programming languages:** TypeScript, JavaScript, Elm, PHP, Elixir
-- **Web technologies:** React (Next.js), Svelte, Node.js, WordPress, Symfony, Laravel, Livewire, Filament, Phoenix, Progressive Web Apps (PWAs), HTML, CSS (Tailwind)
+- **Web technologies:** React (Next.js), Vue, Svelte, Node.js, WordPress, Symfony, Laravel, Livewire, Filament, Phoenix, GraphQL, Progressive Web Apps (PWAs), HTML, CSS (Tailwind)
 - **Cloud platforms:** AWS, DigitalOcean, Hetzner
 - **DevOps tools & platforms:** Docker, Kubernetes, Ansible, Terraform, NixOS, GitLab, GitHub, CI/CD
 - **Database systems:** MySQL, PostgreSQL
