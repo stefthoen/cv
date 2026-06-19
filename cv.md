@@ -18,7 +18,7 @@ Remote freelance software engineer with 15+ years of experience, specializing in
 - Front-end with **Livewire** and **Filament** (admin panels).
 - Heavy use of AI-assisted, agent-based workflows throughout development.
 
-### White-label support company (confidential) — Lead Full Stack Engineer
+### Nerds — Lead Full Stack Engineer
 *Remote | November 2024 – June 2025*
 - Led the rebuild of a white-label helpdesk-aggregation platform from a legacy PHP application to a modern **Next.js / React** stack with **Tailwind CSS**, enabling businesses to outsource customer support while integrating multiple ticketing systems through a unified API layer.
 - Architected and built the front-end (keyboard-first, high-speed UI with shortcuts), coordinating with a third-party API team to unify multiple helpdesk APIs into a single interface.
